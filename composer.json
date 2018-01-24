@@ -16,7 +16,7 @@
   "autoload": {
     "psr-4": {
       "utils\\": "src/",
-	  "ami\\": "src/",
+	  "asterisk\\": "src/",
 	  "excel\\": "src/"
     }
   },
