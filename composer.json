@@ -4,7 +4,6 @@
   "description": "PHP utilitaries",
   "keywords": ["php","utils","telephony","voip","event","action","manager"],
   "homepage": "https://mig1098.github.io/php-utilitaries",
-  "license": "Apache2",
   "authors": [
     {
       "name": "Miglio Esaud Quispe Aquino",
@@ -16,11 +15,11 @@
   "autoload": {
     "psr-4": {
       "utils\\": "src/",
-	  "ami\\": "src/",
+	  "asterisk\\": "src/",
 	  "excel\\": "src/"
     }
   },
   "require": {
-    "php": ">=5.3*"
+    "php": ">=5.3.3"
   }
 }
