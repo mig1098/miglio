@@ -15,7 +15,7 @@
   "autoload": {
     "psr-4": {
       "Miglio\\": "utils/src/",
-	  "Miglio\\": "execl/src/",
+	  "Miglio\\": "excel/src/",
 	  "Miglio\\": "asterisk/src/"
     }
   },
