@@ -1,0 +1,26 @@
+{
+  "name": "mig1098/miglio",
+  "type": "library",
+  "description": "PHP utilitaries",
+  "keywords": ["php","utils","telephony","voip","event","action","manager"],
+  "homepage": "https://mig1098.github.io/php-utilitaries",
+  "license": "Apache2",
+  "authors": [
+    {
+      "name": "Miglio Esaud Quispe Aquino",
+      "email": "mig1098@gmail.com",
+      "homepage": "https://mig1098.github.io/",
+      "role": "Developer"
+    }
+  ],
+  "autoload": {
+    "psr-4": {
+      "utils\\": "src/",
+	  "ami\\": "src/",
+	  "excel\\": "src/"
+    }
+  },
+  "require": {
+    "php": ">=5.3.3"
+  }
+}

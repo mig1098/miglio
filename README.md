@@ -6,7 +6,7 @@ Add this in your composer.json:
 
 ```json
   "require": {
-    "marcelog/pami": "2.*"
+    "mig1098/miglio": "2.*"
   }
 ```
 
