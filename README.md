@@ -6,7 +6,7 @@ Add this in your composer.json:
 
 ```json
   "require": {
-    "mig1098/miglio": "*"
+    "mig1098/miglio": "1.0.*"
   }
 ```
 

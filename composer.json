@@ -14,9 +14,7 @@
   ],
   "autoload": {
     "psr-4": {
-      "Miglio\\": "utils/src/",
-	  "Miglio\\": "execl/src/",
-	  "Miglio\\": "asterisk/src/"
+      "Miglio\\": "src/"
     }
   },
   "require": {
